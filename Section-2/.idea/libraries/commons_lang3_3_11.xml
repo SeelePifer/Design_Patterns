@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="commons-lang3-3.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../commons-lang3-3.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../javatuples-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../reflections-0.9.12.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/Demo/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
