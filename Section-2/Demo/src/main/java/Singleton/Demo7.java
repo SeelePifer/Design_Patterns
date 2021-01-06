@@ -87,7 +87,7 @@ class DummyDatabase implements Database{
         return data.get(name);
     }
 }
-class Tests{
+/*class Tests{
     @Test//not a unit test
     public void singletonTotalPopulationTest(){
         SingletonRecordFinder rf = new SingletonRecordFinder();
@@ -101,6 +101,6 @@ class Tests{
         ConfigurableRecordFinder rf = new ConfigurableRecordFinder(db);
         /*assertEquals(4, rf.getTotalPopulation(
                 List.of("alpha","gamma")
-        ));*/
+        ));
     }
-}
+}*/
